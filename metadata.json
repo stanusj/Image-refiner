@@ -1,0 +1,6 @@
+{
+  "name": "Studio Pop - Editorial Image Refiner",
+  "description": "An interactive image touch-up studio and website layout previewer designed to make creative assets pop with light controls, high-end presets, and live editorial website integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
